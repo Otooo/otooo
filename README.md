@@ -14,7 +14,7 @@ I'm Oto Lopes, Computer Engineer and I love to design systems.
 - :office: Full Stack Software Engineer at **BPago**
 - :blue_heart: Techs: php, js, Laravel, VueJs, Docker, AWS, Database, ...
 
-> :octocat: [otolopes.github.io](https://otolopes.github.io)
+> :octocat: [otolopes.github.io](https://otooo.github.io/otooo)
 
 ---
 
