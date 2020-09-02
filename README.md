@@ -1,4 +1,4 @@
-# :man_technologist: Oto Lopes
+# :fire: Oto Lopes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Otooo)](https://github.com/Otooo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oto-lopes/)](https://www.linkedin.com/in/oto-lopes/)
@@ -11,7 +11,7 @@
 
 I'm Oto Lopes, Computer Engineer and I love to design systems.
 
-- :office_worker: Full Stack Software Engineer at **BPago**
+- :office: Full Stack Software Engineer at **BPago**
 - :blue_heart: Techs: php, js, Laravel, VueJs, Docker, AWS, Database, ...
 
 > :octocat: [otolopes.github.io](https://otolopes.github.io)
@@ -32,7 +32,7 @@ I'm Oto Lopes, Computer Engineer and I love to design systems.
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-  ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
+  <!-- ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white) -->
   <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) -->
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
