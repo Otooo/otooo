@@ -11,8 +11,8 @@
 
 I'm Oto Lopes, Computer Engineer and I love to design systems.
 
-- :office: Full Stack Developer at **StocksToTrade**
-- :blue_heart: Techs: php, js, Laravel, VueJs, Docker, AWS, Database, ...
+- :office: Full Stack Developer at **[Digital Markets](https://digtl.co)**
+- :blue_heart: Techs: php, js, Laravel, VueJs, ReactJs, Node, Docker, AWS, Database, ...
 
 > :octocat: [otolopes.github.io](https://otooo.github.io/otooo)
 
@@ -37,7 +37,7 @@ I'm Oto Lopes, Computer Engineer and I love to design systems.
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-  <!-- ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white) -->
+  ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
   <!-- ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white) -->
   <!-- ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white) -->
   <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff) -->
