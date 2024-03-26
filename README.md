@@ -11,7 +11,7 @@
 
 I'm Oto Lopes, Computer Engineer and I love to design systems.
 
-- :office: Full Stack Developer at **[Digital Markets](https://digtl.co)**
+- :office: Full Stack Developer at **[StocksToTrade](https://stockstotrade.com/)**
 - :blue_heart: Techs: php, js, Laravel, VueJs, ReactJs, Node, Docker, AWS, Database, ...
 
 > :octocat: [otolopes.github.io](https://otooo.github.io/otooo)
