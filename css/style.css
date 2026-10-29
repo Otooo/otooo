@@ -300,6 +300,7 @@ img {
 }
 
 .logo {
+    white-space: nowrap;
     font-family: var(--font-mono);
     font-size: 1.5rem;
     font-weight: 700;
@@ -1675,9 +1676,22 @@ img {
     .edu-grid {
         grid-template-columns: 1fr;
     }
+}
 
+/* medium screens: keep the header on one line */
+@media (max-width: 1180px) {
+    /* icon only, label kept for screen readers */
     .header-actions .download-cv span {
-        display: none;
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+        clip-path: inset(50%);
+        white-space: nowrap;
+    }
+
+    .nav {
+        gap: 1.4rem;
     }
 }
 

@@ -14,7 +14,7 @@
         "nav.experience": "Experience",
         "nav.education": "Education",
         "nav.contact": "Contact",
-        "cv": "Download CV",
+        "cv": "Download Resume",
         "hero.badge": "Senior Full Stack Engineer • Tech Lead",
         "hero.hello": "Hi, I'm",
         "hero.text": "Senior Full Stack Engineer and Tech Lead. I build production web systems with Laravel, React/Next.js and Node.js, owning the architecture from code to infrastructure.",
