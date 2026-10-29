@@ -9,12 +9,14 @@
 
 ## Hi! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-I'm Oto Lopes, Computer Engineer and I love to design systems.
+I'm Oto Lopes, Senior Full Stack Engineer with 8+ years building production web systems, M.Sc. in Computer Science.
 
-- :office: Full Stack Developer at **[StocksToTrade](https://stockstotrade.com/)**
-- :blue_heart: Techs: php, js, Laravel, VueJs, ReactJs, Node, Docker, AWS, Database, ...
+- :office: Tech Lead at **Join Tecnologia**, leading a team of 5 developers
+- :dart: Current focus: PHP (Laravel), TypeScript (React, Next.js) and AI-assisted development
+- :building_construction: Architecture & infrastructure: Docker, Google Cloud (GCS), MySQL, MongoDB, automated CI/CD
+- :blue_heart: Also: Node.js, Vue.js, Angular, Go, Java, Python, AWS (Lambda, API Gateway), RabbitMQ
 
-> :octocat: [otolopes.github.io](https://otooo.github.io/otooo)
+> :octocat: [otooo.github.io/otooo](https://otooo.github.io/otooo/)
 
 ---
 
@@ -26,37 +28,27 @@ I'm Oto Lopes, Computer Engineer and I love to design systems.
 
 ## Some Technologies
 
-  ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-  ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-  ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+  ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+  ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
   ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
-  <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) -->
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-  <!-- ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white) -->
-  ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
   ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)
-  ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-  <!-- ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white) -->
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-  ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-  <!-- ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white) -->
-  <!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) -->
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
-  <!-- ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white) -->
-  <!-- ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white) -->
-  <!-- ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) -->
-  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
   ---
 </details>

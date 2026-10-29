@@ -1,1 +1,5 @@
 **DS_Store**
+
+# source files of the résumé (content is embedded in index.html)
+*.md
+!README.md
