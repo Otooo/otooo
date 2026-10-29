@@ -1,54 +1,63 @@
-# :fire: Oto Lopes
+<div align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Otooo)](https://github.com/Otooo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oto-lopes/)](https://www.linkedin.com/in/oto-lopes/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/7782847/otinho-o-o)](https://stackoverflow.com/users/7782847/otinho-o-o)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5575991480009&text=Olá!)](https://api.whatsapp.com/send?phone=5575991480009&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/bokuwaoto)](https://t.me/bokuwaoto)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:otoengc@gmail.com)](mailto:otoengc@gmail.com)
+# Oto Lopes
 
-## Hi! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+<a href="https://otooo.github.io/otooo/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Senior+Full+Stack+Engineer;Tech+Lead+%C2%B7+team+of+5+developers;Laravel+%2B+React%2FNext.js;Software+Architecture+%26+AI-assisted+development" alt="Senior Full Stack Engineer · Tech Lead · Laravel + React/Next.js · Software Architecture" />
+</a>
 
-I'm Oto Lopes, Senior Full Stack Engineer with 8+ years building production web systems, M.Sc. in Computer Science.
+[![Portfolio](https://img.shields.io/badge/Portfolio-otooo.github.io-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://otooo.github.io/otooo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oto--lopes-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/oto-lopes/)
+[![Email](https://img.shields.io/badge/Email-otoengc%40gmail.com-f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otoengc@gmail.com)
 
-- :office: Tech Lead at **Join Tecnologia**, leading a team of 5 developers
-- :dart: Current focus: PHP (Laravel), TypeScript (React, Next.js) and AI-assisted development
-- :building_construction: Architecture & infrastructure: Docker, Google Cloud (GCS), MySQL, MongoDB, automated CI/CD
-- :blue_heart: Also: Node.js, Vue.js, Angular, Go, Java, Python, AWS (Lambda, API Gateway), RabbitMQ
+[![Resume EN](https://img.shields.io/badge/Resume-EN-13111f?style=flat-square&logo=readdotcv&logoColor=a78bfa)](https://otooo.github.io/otooo/docs/OtoLopes_Resume.pdf)
+[![Currículo PT](https://img.shields.io/badge/Curr%C3%ADculo-PT-13111f?style=flat-square&logo=readdotcv&logoColor=a78bfa)](https://otooo.github.io/otooo/docs/OtoLopes_Curriculo.pdf)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5575991480009)
 
-> :octocat: [otooo.github.io/otooo](https://otooo.github.io/otooo/)
+</div>
 
 ---
 
-<details>
-  <summary> <b> Do you wanna know more about me? </b> <i>(Click here ...)</i> </summary>
-  <br>
+### 👋 About me
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=otooo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Otooo/Otooo)
+Senior Full Stack Engineer with **8+ years** building production web systems. I'm currently **Tech Lead at [Join Tecnologia](https://jointecnologia.com.br)**, leading a team of 5 developers and owning technical planning, code review and infrastructure architecture.
 
-## Some Technologies
+- 🎯 **Current focus:** PHP (Laravel), TypeScript (React, Next.js) and AI-assisted development
+- 🏗️ **Architecture & infrastructure:** Docker, Google Cloud (GCS), MySQL, MongoDB, automated CI/CD
+- 🤖 **AI in the workflow:** AI agents and LLMs for planning, implementation and code review
+- 🎓 **M.Sc. in Computer Science** and B.Eng. in Computer Engineering (UEFS)
+- 🏆 1st place in 3 competitions: Agro Feira de Santana Hackathon (2024), StartupDay Feira Hackathon (2019), PROGBASE Programming Marathon (2014)
+- 🌎 Brazil · Portuguese (native), English (intermediate)
 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
-  ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
-  ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-  ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🛠️ Tech stack
 
-  ---
-</details>
+**Current focus**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs&theme=dark" alt="PHP, Laravel, TypeScript, React, Next.js" /></a>
+
+**Cloud, data & DevOps**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,docker,mysql,mongodb,rabbitmq,aws,jenkins,git&theme=dark" alt="Google Cloud, Docker, MySQL, MongoDB, RabbitMQ, AWS, Jenkins, Git" /></a>
+
+**Also worked with**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,vue,angular,go,java,py,js,ionic&theme=dark" alt="Node.js, Vue.js, Angular, Go, Java, Python, JavaScript, Ionic" /></a>
+
+### 💼 Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **Join Tecnologia** | Tech Lead | Apr 2025 – Present |
+| Stars Lab | Senior Full Stack Developer | Apr 2025 – Jan 2026 |
+| StocksToTrade | Full Stack Developer | Jun 2021 – Apr 2025 |
+| DIGTL Markets | Full Stack Developer | Aug 2022 – Sep 2023 |
+| BPago | Development Manager | Oct 2019 – Jun 2021 |
+| Gerenciagram | Full Stack Developer | Mar 2019 – Oct 2019 |
+| SoftwareDATA | Systems Analyst | Jan 2018 – Apr 2019 |
+| 3Soft Sistemas | Development Trainee | Aug 2016 – Jul 2017 |
+
+<div align="center">
+
+**More details on my [portfolio](https://otooo.github.io/otooo/)** 💜
+
+</div>
