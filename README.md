@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Senior+Full+Stack+Engineer;Tech+Lead+%C2%B7+team+of+5+developers;Laravel+%2B+React%2FNext.js;Software+Architecture+%26+AI-assisted+development" alt="Senior Full Stack Engineer · Tech Lead · Laravel + React/Next.js · Software Architecture" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-otooo.github.io-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://otooo.github.io/otooo/)
+[![Professional Profile](https://img.shields.io/badge/Professional_Profile-otooo.github.io%2Fotooo-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://otooo.github.io/otooo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oto--lopes-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/oto-lopes/)
 [![Email](https://img.shields.io/badge/Email-otoengc%40gmail.com-f472b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otoengc@gmail.com)
 
@@ -45,6 +45,8 @@ Senior Full Stack Engineer with **8+ years** building production web systems. I'
 
 ### 💼 Experience
 
+> 🔒 Most of the projects I have worked on are private and covered by non-disclosure agreements (NDAs), so there are no public demos.
+
 | Company | Role | Period |
 |---|---|---|
 | **Join Tecnologia** | Tech Lead | Apr 2025 – Present |
@@ -58,6 +60,6 @@ Senior Full Stack Engineer with **8+ years** building production web systems. I'
 
 <div align="center">
 
-**More details on my [portfolio](https://otooo.github.io/otooo/)** 💜
+**More details on my [professional profile](https://otooo.github.io/otooo/)** 💜
 
 </div>

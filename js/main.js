@@ -52,6 +52,7 @@
         "exp.tag": "Experience",
         "exp.title": "Where I've worked",
         "exp.text": "From trainee to Tech Lead: technical leadership, architecture and product delivery.",
+        "exp.nda": "Most of the projects I have worked on are private and covered by non-disclosure agreements (NDAs), so there are no public demos.",
         "exp.1.period": "Apr 2025 – Present",
         "exp.1.a": "Lead a team of 5 developers, owning technical planning, code review and infrastructure architecture for the platform.",
         "exp.1.b": "Design and review infrastructure and system architecture decisions.",

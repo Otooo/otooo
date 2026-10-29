@@ -1397,6 +1397,30 @@ img {
 }
 
 /* =========================
+   NDA NOTE
+========================= */
+
+.nda-note {
+    display: inline-flex;
+    align-items: center;
+    gap: .55rem;
+    max-width: 650px;
+    margin-top: 1.2rem;
+    padding: .6rem 1rem;
+    border: 1px dashed rgba(var(--primary-rgb), .35);
+    border-radius: var(--radius-sm);
+    background: rgba(var(--primary-rgb), .05);
+    color: var(--text-muted);
+    font-size: .85rem;
+    text-align: left;
+}
+
+.nda-note i {
+    color: var(--primary);
+    flex-shrink: 0;
+}
+
+/* =========================
    EXPERIENCE TIMELINE
 ========================= */
 
